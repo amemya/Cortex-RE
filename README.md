@@ -10,5 +10,5 @@ TLE9201SGAUMA1
 Mikuni APM30-105
 
 - スロットル  
-bosch 997 605 116 01 (0 280 750 473)
+bosch 997 605 116 01 (0 280 750 473)  
 https://www.bosch-motorsport.com/content/downloads/Raceparts/Resources/pdf/Data%20sheet_68749835_Electronic_Throttle_Body.pdf
