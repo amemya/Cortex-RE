@@ -33,7 +33,7 @@ Release/
 # =========================
 # IDE - VS Code
 # =========================
-.vscode/*
+# .vscode/*
 # Uncomment below to keep specific VS Code settings
 # !.vscode/settings.json
 # !.vscode/c_cpp_properties.json
